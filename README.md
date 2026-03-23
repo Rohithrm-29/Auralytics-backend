@@ -123,7 +123,7 @@ All endpoints are prefixed with `/api/v1/`
 
 ---
 
-## Seed Credentials (all passwords: `Password123!`)
+## Seed Credentials
 
 | Name | Email | Role |
 |------|-------|------|
